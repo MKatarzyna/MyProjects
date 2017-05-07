@@ -1,0 +1,25 @@
+{
+  "BMI": {
+    "waga": 75,
+    "wynik": 23.1481475830078,
+    "wzrost": 180
+  },
+  "Cwiczenia": {
+    "czyCwiczyles": true,
+    "ileMinut": 60,
+    "rodzajCwiczen": "jogging"
+  },
+  "Data": {
+    "dzien": "04",
+    "miesiac": "12",
+    "rok": "2016"
+  },
+  "Jedzenie": {
+    "drugieSniadanie": "twarog ze smietana i pomidorami, grahamka, jablko",
+    "kolacja": "kanapki z wedlina, serem i warzywami, herbata zielona",
+    "obiad": "pieczona ryba z warzywami i ziemniakami ",
+    "podwieczorek": "saˆatka z kurczakiem i grzankami",
+    "sniadanie": "jajecznica, grzanki z maslem, herbata"
+  },
+  "Plyny": { "ilosc": 1500 }
+}

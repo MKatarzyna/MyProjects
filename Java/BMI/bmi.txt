@@ -1,0 +1,4 @@
+60.0
+170.0
+20.761246
+Twoj wynik oznacza prawidlowa wartosc. Gratulacje! :)

@@ -1,0 +1,32 @@
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Debug\Dziennik.exe.config
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Debug\Dziennik.exe
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Debug\Dziennik.pdb
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.csprojResolveAssemblyReference.cache
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\MainWindow.g.cs
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\App.g.cs
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik_MarkupCompile.cache
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik_MarkupCompile.lref
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\MainWindow.baml
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.g.resources
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.Properties.Resources.resources
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.csproj.GenerateResource.Cache
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.exe
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Debug\Dziennik.pdb
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Debug\Newtonsoft.Json.dll
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\bin\Debug\Dziennik.exe.config
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.exe
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.pdb
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\bin\Debug\Dziennik.exe
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\bin\Debug\Dziennik.pdb
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.csprojResolveAssemblyReference.cache
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\MainWindow.g.cs
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\App.g.cs
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik_MarkupCompile.cache
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik_MarkupCompile.lref
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\MainWindow.baml
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.g.resources
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.Properties.Resources.resources
+C:\Users\Kate\Desktop\projektyNaGitHuba\Dziennik_wersja_graficzna\Dziennik\obj\Debug\Dziennik.csproj.GenerateResource.Cache

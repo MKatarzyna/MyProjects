@@ -1,0 +1,15 @@
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Release\Dziennik.exe.config
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Release\Dziennik.exe
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Release\Dziennik.pdb
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Release\Newtonsoft.Json.dll
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\bin\Release\Newtonsoft.Json.xml
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\MainWindow.g.cs
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\App.g.cs
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik_MarkupCompile.cache
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik_MarkupCompile.lref
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\MainWindow.baml
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik.g.resources
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik.Properties.Resources.resources
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik.csproj.GenerateResource.Cache
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik.exe
+F:\Studia\moj_SEM_3\zast_programowania_obiektowego\Projekt_DevCpp\WPFapp - dziennikCsharp\Dziennik\Dziennik\obj\Release\Dziennik.pdb
