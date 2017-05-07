@@ -1,0 +1,51 @@
+# /dev/sdb1     /media/dysk1    ext4    defaults,usrquota,grpquota      0      $
+# /dev/sdc1     /media/dysk2    ext4    defaults,usrquota,grpquota      0      $
+
+ioctl()
+
+1. partycja
+2. users, groups
+adduser user1
+adduser user2
+cat /etc/passwd
+
+addgroup group1
+cat /etc/group
+
+usermod -g group1 user1
+usermod -g group1 user2
+cat /etc/passwd
+
+3. quota on
+
+
+nano /etc/fstab 
+
+/dev/sdb1       /media/dysk1    ext4    defaults        0       0
+na
+/dev/sdb1       /media/dysk1    ext4    defaults,usrquota,grpquota        0       0
+
+quotaon -avug
+umount /media/dysk1
+mount /media/dysk1
+quotacheck -augv
+
+setquota -u user1 10000 12500 0 0 /media/dysk1
+setquota -u user2 10000 12500 0 0 /media/dysk1
+setquota -g group1 25000 37500 0 0 /media/dysk1
+
+edquota -u user1
+edquota -u user2
+edquota -g group1
+
+
+quotaoff -augv
+
+
+# cd /media/dysk1/   // przechodzimy do katalogu głównego ograniczanej partycji
+# touch quota.user   // tworzymy plik
+# touch quota.group
+# chmod 600 quota.user  // zmieniamy prawa dostępu ( tylko dla root-a!!!)
+# chmod 600 quota.group
+
+Nie można odgadnąć formatu z nazwy pliku na /dev/sdb1. Proszę podać format w poleceniu.
